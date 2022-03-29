@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Gustavo%20Genaro-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:gustavogenaro_@hotmail.com" alt="gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-gustavogenaro_@hotmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gustavogenaro_@hotmail.com" />
+  <img src="https://img.shields.io/badge/-gustavogenarobr@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gustavogenaro_@hotmail.com" />
   </a>
 </div>
 
